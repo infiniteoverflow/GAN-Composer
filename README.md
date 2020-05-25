@@ -2,7 +2,7 @@
 
 ## Goal
 
-As part of this lab, you will learn to build a custom GAN architecture and train the model using Amazon SageMaker.
+We will build a custom GAN architecture and train the model using Amazon SageMaker.
 
 
 
